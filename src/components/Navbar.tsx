@@ -50,7 +50,7 @@ const Navbar = () => {
               <span className="text-primary-foreground font-bold text-lg">SP</span>
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-              Student Platform
+              EduQuest
             </span>
           </div>
           
